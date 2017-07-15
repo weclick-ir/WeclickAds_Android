@@ -52,7 +52,7 @@ allprojects {
  </code>
  </pre>
  </div>
- <ul>
+ <ul dir="rtl">
  <li>
  <p dir="rtl">
  سپس در فایل 
