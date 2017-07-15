@@ -38,8 +38,8 @@ SDK
  در سطح پروژه خود اضافه کنید:
  </p>
  
- <code>
- 
+<code dir="ltr">
+
 allprojects {
 
     repositories {
