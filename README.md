@@ -39,15 +39,14 @@ SDK
  </p>
  
 <code dir="ltr">
-
  allprojects {
+ 
     repositories {
     
         maven { url 'https://weclick.ir/repo' }
         
     }
  }
-
  </code>
  
  <p>
