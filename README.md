@@ -32,4 +32,31 @@ SDK
 اضافه کنید!
 </p>
  
- </div>
+ <p>
+ ابتدا خط زیر را در فایل 
+ <code>build.gradle</code>
+ در سطح پروژه خود اضافه کنید:
+ </p>
+ 
+ <code>
+allprojects {
+    repositories {
+        maven { url 'https://weclick.ir/repo' }
+    }
+}
+ </code>
+ 
+ <p>
+ سپس در فایل 
+ <code>build.gradle</code>
+ سطح ماژول خود مخزن را معرفی کنید:
+ </p>
+ 
+<code>
+dependencies {
+    compile 'ir.weclick:[VERSION_CODE]'
+    //...
+}
+</code>
+ 
+</div>
