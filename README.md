@@ -20,8 +20,14 @@ SDK
 
 <h2>
 نصب با استفاده از 
-<code>
-build.gradle
-</code>
+<code>build.gradle</code>
 <h2>
 </div>
+
+<p>
+بعد از ایجاد حساب کاربری برای نصب 
+SDK 
+بر روی پروژه خود باید ادرس مخزن را به فایل 
+<code>build.gradle</code>
+ اضافه کنید!
+ </p>
