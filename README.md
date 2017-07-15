@@ -38,16 +38,16 @@ SDK
  در سطح پروژه خود اضافه کنید:
  </p>
  
-<code dir="ltr">
-<pre>
+<pre dir="ltr">
+<code>
 allprojects {
     repositories {
         maven { url 'https://weclick.ir/repo' }
         //...
     }
  }
- </pre>
  </code>
+ </pre>
  
  <p>
  سپس در فایل 
