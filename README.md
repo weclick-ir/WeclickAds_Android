@@ -14,7 +14,7 @@ SDK
 
 <h1>
 نصب با استفاده از 
-<mark>
+<code>
 build.gradle
-</mark>
+</code>
 </div>
