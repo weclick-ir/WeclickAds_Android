@@ -22,7 +22,7 @@ SDK
 نصب با استفاده از 
 <code>build.gradle</code>
 <h2>
-</div>
+
 
 <p>
 بعد از ایجاد حساب کاربری برای نصب 
@@ -31,3 +31,4 @@ SDK
 <code>build.gradle</code>
  اضافه کنید!
  </p>
+ </div>
