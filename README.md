@@ -117,11 +117,11 @@ dependencies {
  </p>
  
  <div dir="ltr">
+ 
  ```xml
  <meta-data
     android:name="ir.weclick.CLIENT_KEY"
     android:value="PUT_CLIENT_KEY_HERE"/>
-
  ```
  
  
@@ -134,8 +134,9 @@ dependencies {
         WeclickAds.initialize(getApplicationContext());
     }
  }
+ ```
  
- </div>
+</div>
 </div>
 
 
