@@ -32,7 +32,7 @@ SDK
 اضافه کنید!
 </p>
  <ul dir="ltr">
- <li>
+ <li dir="rtl">
  <p dir="rtl">
  ابتدا خط زیر را در فایل 
  <code>build.gradle</code>
