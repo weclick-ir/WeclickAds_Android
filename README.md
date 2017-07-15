@@ -112,7 +112,7 @@ dependencies {
  
  <p>
  درون بلوک 
- <code> <application> </code>
+ <code> &gt;application&lt; </code>
  به شکل زیر کلید خود را قرار دهید:
  </p>
  
