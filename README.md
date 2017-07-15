@@ -1,2 +1,3 @@
-# WeclickAds_Android
-Sample Android project showcasing how to add Weclick Ads SDK. 
+<h1 dir="rtl>
+راهنمای نصب SDK وی‌کلیک
+</h1>
