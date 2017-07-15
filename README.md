@@ -88,6 +88,7 @@ dependencies {
   <code>Application</code>
   پروژه خود قراخوانی کنید:
  </p>
+ <div dir="ltr">
  
  ```java
  
@@ -99,7 +100,7 @@ dependencies {
     }
  }
  ```
- 
+ </div>
  
 </div>
 
