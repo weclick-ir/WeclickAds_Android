@@ -40,7 +40,7 @@ SDK
  
 <code dir="ltr">
 <pre>
- allprojects {
+allprojects {
     repositories {
         maven { url 'https://weclick.ir/repo' }
         //...
@@ -56,10 +56,12 @@ SDK
  </p>
  
 <code>
+<pre>
 dependencies {
     compile 'ir.weclick:[VERSION_CODE]'
     //...
 }
+</pre>
 </code>
  
 </div>
