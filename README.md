@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 <h1 dir="rtl">راهنمای نصب SDK وی‌کلیک</h1>
 <hr>
 <h3 dir="rtl">
@@ -9,3 +11,4 @@ SDK
 <a dir="rtl" href="http://weclick.ir">
 برای ساخت حساب کاربری به سایت ویکیلیک مراجعه کنید!
 </a>
+</div>
