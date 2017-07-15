@@ -52,13 +52,15 @@ allprojects {
  </code>
  </pre>
  </div>
- </li>
+ <ul>
  <li>
  <p dir="rtl">
  سپس در فایل 
  <code>build.gradle</code>
  سطح ماژول خود مخزن را معرفی کنید:
  </p>
+ </li>
+ </ul>
  
 <pre dir="ltr">
 <code>
@@ -68,7 +70,5 @@ dependencies {
 }
 </code>
 </pre>
-</li>
-</ul>
  
 </div>
