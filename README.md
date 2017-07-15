@@ -21,7 +21,7 @@ SDK
 <h2>
 نصب با استفاده از 
 <code>build.gradle</code>
-<h2>
+</h2>
 
 
 <p>
