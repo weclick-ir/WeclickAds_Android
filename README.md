@@ -40,7 +40,7 @@ SDK
  در سطح پروژه خود اضافه کنید:
  </p>
  
-<pre dir="ltr">
+<pre dir="ltr" align="left">
 <code>
 allprojects {
     repositories {
