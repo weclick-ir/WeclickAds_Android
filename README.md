@@ -12,7 +12,7 @@ SDK
 برای ساخت حساب کاربری به سایت ویکیلیک مراجعه کنید!
 </a>
 
-<div style="text-align:center">
+<div dir="ltr">
 
 [![Weclick!](https://weclick.ir/images/logo.png)](https://weclick.ir)
 
