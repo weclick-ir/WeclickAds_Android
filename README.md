@@ -31,7 +31,8 @@ SDK
 <code>build.gradle</code>
 اضافه کنید!
 </p>
- 
+ <ul>
+ <li>
  <p>
  ابتدا خط زیر را در فایل 
  <code>build.gradle</code>
@@ -48,7 +49,8 @@ allprojects {
  }
  </code>
  </pre>
- 
+ </li>
+ <li>
  <p>
  سپس در فایل 
  <code>build.gradle</code>
@@ -63,5 +65,7 @@ dependencies {
 }
 </code>
 </pre>
+</li>
+</ul>
  
 </div>
