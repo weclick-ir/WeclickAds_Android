@@ -102,6 +102,40 @@ dependencies {
  ```
  </div>
  
+ <p>
+ می توانید 
+ <code> CLIENT_KEY</code>
+ خود را در فایل 
+ <code>AndroidManifest.xml</code>
+ معرفی کنید:
+ </p>
+ 
+ <p>
+ درون بلوک 
+ <code> <application> </code>
+ به شکل زیر کلید خود را قرار دهید:
+ </p>
+ 
+ <div dir="ltr">
+ ```xml
+ <meta-data
+    android:name="ir.weclick.CLIENT_KEY"
+    android:value="PUT_CLIENT_KEY_HERE"/>
+
+ ```
+ 
+ 
+  ```java
+ 
+ public class App extends Application {
+    @Override
+    protected void onCreate() {
+        super.onCreate();
+        WeclickAds.initialize(getApplicationContext());
+    }
+ }
+ 
+ </div>
 </div>
 
 
