@@ -31,7 +31,7 @@ SDK
 <code>build.gradle</code>
 اضافه کنید!
 </p>
- <ul dir="ltr">
+ <ul dir="rtl">
  <li>
  <div dir="rtl">
  <p dir="rtl">
