@@ -31,16 +31,16 @@ SDK
 <code>build.gradle</code>
 اضافه کنید!
 </p>
- <ul>
+ <ul dir="ltr">
  <li>
- <p>
+ <p dir="rtl">
  ابتدا خط زیر را در فایل 
  <code>build.gradle</code>
  در سطح پروژه خود اضافه کنید:
  </p>
  
 <pre dir="ltr">
-<code dir="ltr">
+<code>
 allprojects {
     repositories {
         maven { url 'https://weclick.ir/repo' }
@@ -51,14 +51,14 @@ allprojects {
  </pre>
  </li>
  <li>
- <p>
+ <p dir="rtl">
  سپس در فایل 
  <code>build.gradle</code>
  سطح ماژول خود مخزن را معرفی کنید:
  </p>
  
 <pre dir="ltr">
-<code dir="ltr">
+<code>
 dependencies {
     compile 'ir.weclick:[VERSION_CODE]'
     //...
