@@ -11,4 +11,10 @@ SDK
 <a href="http://weclick.ir">
 برای ساخت حساب کاربری به سایت ویکیلیک مراجعه کنید!
 </a>
+
+<h1>
+نصب با استفاده از 
+<mark>
+build.gradle
+</mark>
 </div>
