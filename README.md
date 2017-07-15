@@ -33,12 +33,13 @@ SDK
 </p>
  <ul dir="rtl">
  <li>
- <div dir="rtl">
  <p dir="rtl">
  ابتدا خط زیر را در فایل 
  <code>build.gradle</code>
  در سطح پروژه خود اضافه کنید:
  </p>
+ </li>
+ </ul>
  
 <pre dir="ltr" align="left" style="text-align:left">
 <code>
