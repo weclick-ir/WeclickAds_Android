@@ -33,6 +33,7 @@ SDK
 </p>
  <ul dir="ltr">
  <li>
+ <div dir="rtl">
  <p dir="rtl">
  ابتدا خط زیر را در فایل 
  <code>build.gradle</code>
@@ -49,6 +50,7 @@ allprojects {
  }
  </code>
  </pre>
+ </div>
  </li>
  <li>
  <p dir="rtl">
