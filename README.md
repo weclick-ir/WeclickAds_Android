@@ -12,6 +12,8 @@ SDK
 برای ساخت حساب کاربری به سایت ویکیلیک مراجعه کنید!
 </a>
 
+[![Weclick!](https://weclick.ir/images/logo.png)](https://weclick.ir)
+
 <h2>
 نصب با استفاده از 
 <code>
