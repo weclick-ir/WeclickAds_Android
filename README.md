@@ -88,20 +88,17 @@ dependencies {
   <code>Application</code>
   پروژه خود قراخوانی کنید:
  </p>
- <pre dir="ltr">
- <code>
+ 
+ ```java
+ 
  public class App extends Application {
-   
     @Override
     protected void onCreate() {
         super.onCreate();
-
         WeclickAds.initialize(getApplicationContext(),"YOUR_CLIENT_KEY");
-        
     }
  }
- </code>
- </pre>
+ ```
  
  
 </div>
