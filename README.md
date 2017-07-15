@@ -55,7 +55,7 @@ allprojects {
  سطح ماژول خود مخزن را معرفی کنید:
  </p>
  
-<code>
+<code dir="rtl">
 <pre>
 dependencies {
     compile 'ir.weclick:[VERSION_CODE]'
