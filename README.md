@@ -31,7 +31,7 @@ SDK
 <code>build.gradle</code>
 اضافه کنید!
 </p>
- <ul dir="ltr">
+ <ul>
  <li>
  <p>
  ابتدا خط زیر را در فایل 
@@ -40,7 +40,7 @@ SDK
  </p>
  
 <pre dir="ltr">
-<code>
+<code dir="ltr">
 allprojects {
     repositories {
         maven { url 'https://weclick.ir/repo' }
@@ -58,7 +58,7 @@ allprojects {
  </p>
  
 <pre dir="ltr">
-<code>
+<code dir="ltr">
 dependencies {
     compile 'ir.weclick:[VERSION_CODE]'
     //...
