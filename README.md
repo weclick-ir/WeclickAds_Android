@@ -39,6 +39,8 @@ SDK
  </p>
  
 <code dir="ltr">
+<pre>
+
  allprojects {
  
     repositories {
@@ -47,6 +49,7 @@ SDK
         
     }
  }
+ </pre>
  </code>
  
  <p>
