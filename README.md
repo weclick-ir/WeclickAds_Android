@@ -71,4 +71,39 @@ dependencies {
 </code>
 </pre>
  
+ <p>
+ پس از اعمال تغیرات مجدد پروژه را بیلد کنید.
+ </p>
+ 
+ <h2>
+ تنظیمات اولیه
+ </h2>
+ 
+ <p>
+ پس نصب باید کلاس
+ <code>
+ WeclickAds
+ </code>
+  را بصورت زیر در کلاس
+  <code>Application</code>
+  پروژه خود قراخوانی کنید:
+ </p>
+ <pre dir="ltr">
+ <code>
+ public class App extends Application {
+   
+    @Override
+    protected void onCreate() {
+        super.onCreate();
+
+        WeclickAds.initialize(getApplicationContext(),"YOUR_CLIENT_KEY");
+        
+    }
+ }
+ </code>
+ </pre>
+ 
+ 
 </div>
+
+
