@@ -31,7 +31,7 @@ SDK
 <code>build.gradle</code>
 اضافه کنید!
 </p>
- <ul>
+ <ul dir="ltr">
  <li>
  <p>
  ابتدا خط زیر را در فایل 
