@@ -281,6 +281,50 @@ adView.setRequest(request);
 باقی موارد اجباری نبوده و برای هدفمندی تبلیغ می باشد درنتیجه به بازدهی بیشتر تبلیغ کمک می کند.
 </p>
 
+<ul>
+<li>
+<p>
+تنظیمات 
+<code>WeclickAdRequest</code>
+</p>
+</li>
+</ul>
+
+<p>
+بجز دو متد
+<code>setAdFormat(WeclickAdFormat.BANNER)</code>
+و
+<code>setAdSize(WeclickAdSize.FULL_BANNER)</code>
+باقی موارد اجباری نبوده و صرفا به هدفمندی تبلیغ کمک می کند.
+</p>
+
+<ul>
+<li>
+<p>
+فرمت های مختلف تبلیغ
+</p>
+</li>
+</ul>
+
+<p>
+در حال حاضر دو نوع تبلیغات بنری و تعاملی در دسترس قرار دارد و باقی انواع مختلف تبلیغ در ورژن های بعدی اضافه می شود!
+</p>
+
+```java
+
+    /**
+     * WeclickAdFormat.BANNER ads are rectangular image ads that occupy a spot within an app's layout.
+     * They stay on screen while users are interacting with the app
+     */
+    BANNER
+    
+     /**
+     * WeclickAdFormat.HTML ads are rectangular Text or HTML ads that occupy a spot within an app's layout.
+     * They stay on screen while users are interacting with the app
+     */
+    HTML
+
+```
 
 </div>
 
