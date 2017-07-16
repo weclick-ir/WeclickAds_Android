@@ -214,6 +214,7 @@ dependencies {
 </ul>
 
 <div dir="ltr">
+
 ```java
 private WeclickAdView adView;
 
