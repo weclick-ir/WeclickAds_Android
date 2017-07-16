@@ -137,6 +137,63 @@ dependencies {
  ```
  
 </div>
+
+<h2>
+نمایش تبلیغ
+</h2>
+
+<p>
+ابتدا کامپوننت تبلیغ را به
+<code>layout</code>
+خود اضافه کنید!
+دقت کنید درصورتی ک تبلغی برای نمایش وجود نداشته باشد یا شما از طریق پنل کاربری خود تبلیغ را غیر فعال کنید کامپوننت تبلیغ به حالت
+<code>GONE</code>
+می رود لذا باید ترتیب چیدمان کامپوننت های شما طوری باشد که با تغییر بهم نریزد!
+</p>
+
+<div dir="ltr">
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_test_ad"
+    android:gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@color/colorAccent"
+        android:orientation="horizontal"
+        android:visibility="visible">
+        
+        <!--ADD YOUR VIEWS HERE-->
+
+    </LinearLayout>
+
+
+    <ir.weclick.weclickads.WeclickAdView
+        android:id="@+id/weclick_ad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:elevation="20dp"
+        app:adSize="BANNER"
+        app:detachable="true">
+    </ir.weclick.weclickads.WeclickAdView>
+
+</RelativeLayout>
+
+```
+</div>
 </div>
 
 
