@@ -255,7 +255,8 @@ adView.setRequest(request);
 <ul>
 <li>
 <p>
-دسترسی ها )Permissions)
+دسترسی ها
+<code>uses-permission</code>
 </p>
 </li>
 </ul>
