@@ -248,6 +248,19 @@ adView.setRequest(request);
 
 </div>
 
+<h2>
+سایر موارد
+</h2>
+
+<ul>
+<li>
+<p>
+)Permissions)دسترسی ها
+</p>
+</li>
+</ul>
+
+
 </div>
 
 
