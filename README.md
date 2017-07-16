@@ -226,9 +226,9 @@ adView= (WeclickAdView) findViewById(R.id.weclick_ad);
 <li>
 <p>
 برای نمایش تبلیغ در کامپوننت ایجاد شده باید یک
-
-<code>WeclickAdRequest</coed>
-
+<a href="#">
+<code>WeclickAdRequest</code>
+</a>
 ایجاد نموده و به کامپوننت معرفی کنید!
 </p>
 </li>
