@@ -278,7 +278,6 @@ adView.setRequest(request);
 <code>INTERNET</code>
 و
 <code>ACCESS_NETWORK_STATE</code>
-
 باقی موارد اجباری نبوده و درنتیجه بازدهی بیشتر کمک می کند.
 </p>
 
