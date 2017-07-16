@@ -86,7 +86,7 @@ dependencies {
  </code>
   را بصورت زیر در کلاس
   <code>Application</code>
-  پروژه خود قراخوانی کنید:
+  پروژه خود فراخوانی کنید:
  </p>
  <div dir="ltr">
  
@@ -220,6 +220,30 @@ private WeclickAdView adView;
 
 adView= (WeclickAdView) findViewById(R.id.weclick_ad);
 ```
+</div>
+
+<ul>
+<li>
+<p>
+برای نمایش تبلیغ در کامپوننت ایجاد شده باید یک
+<a href="#"><code>WeclickAdRequest</coed></a>
+ایجاد نموده و به کامپوننت معرفی کنید!
+</p>
+</li>
+</ul>
+
+<div dir="ltr">
+
+```java
+WeclickAdRequest request=new WeclickAdRequest.Builder()
+                .setAdFormat(WeclickAdFormat.BANNER)
+                .setAdSize(WeclickAdSize.FULL_BANNER)
+                .setAge(19)
+                .setGender(1).build();
+
+adView.setRequest(request);
+```
+
 </div>
 
 </div>
