@@ -261,6 +261,27 @@ adView.setRequest(request);
 </li>
 </ul>
 
+<div dir="ltr">
+
+```xml
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+```
+
+</div>
+
+<p>
+بجز 
+<code>INTERNET</code>
+و
+<code>ACCESS_NETWORK_STATE</code>
+
+باقی موارد اجباری نبوده و درنتیجه بازدهی بیشتر کمک می کند.
+</p>
+
 
 </div>
 
