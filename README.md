@@ -182,7 +182,7 @@ dependencies {
         android:orientation="horizontal"
         android:visibility="visible">
         
-        <!--ADD YOUR VIEWS HERE-->
+        <!--ADD YOUR OTHER VIEWS HERE-->
 
     </LinearLayout>
 
@@ -202,6 +202,25 @@ dependencies {
 
 ```
 </div>
+
+<ul>
+<li>
+<p>
+در کلاس مرتبط با 
+<code>layout</code>
+کامپوننت را پیدا کنید:
+</p>
+</li>
+</ul>
+
+<div dir="ltr">
+```java
+private WeclickAdView adView;
+
+adView= (WeclickAdView) findViewById(R.id.weclick_ad);
+```
+</div>
+
 </div>
 
 
