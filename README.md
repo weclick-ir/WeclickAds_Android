@@ -8,7 +8,7 @@ SDK
 تبلیغات ویکلیک به حساب کاربری نیاز دارید!
 </h3>
 
-<a href="http://weclick.ir">
+<a href="https://weclick.ir/account/register">
 برای ساخت حساب کاربری به سایت ویکیلیک مراجعه کنید!
 </a>
 
