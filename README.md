@@ -8,8 +8,13 @@ SDK
 تبلیغات ویکلیک به حساب کاربری نیاز دارید!
 </h3>
 
-<a href="https://weclick.ir/account/register">
+<a href="https://github.com/weclick-ir/WeclickAds_Android/wiki/Usage-Examples" target="_blank">
 برای ساخت حساب کاربری به سایت ویکیلیک مراجعه کنید!
+</a>
+
+
+<a href="https://weclick.ir/account/register">
+راهنمای استفاده و نمایش تبلیغ
 </a>
 
 <div dir="ltr">
