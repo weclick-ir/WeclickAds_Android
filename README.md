@@ -56,7 +56,9 @@ SDK
 <code>
 allprojects {
     repositories {
-        maven { url 'https://weclick.ir/repo' }
+        maven {
+            url "https://packagecloud.io/weclick/android_sdk/maven2"
+        }
         //...
     }
  }
@@ -76,7 +78,7 @@ allprojects {
 <pre dir="ltr">
 <code>
 dependencies {
-    compile 'ir.weclick:[VERSION_CODE]'
+    compile 'ir.weclick:weclickads:1@aar'
     //...
 }
 </code>
